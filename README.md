@@ -1,2 +1,2 @@
 # Go-Crud-API
-Projeto Golang API basica Crud, realizado com objetivo de aprimorar o conhecimento.
+Projeto Golang API basica video. Curso de Golang API básica video.
